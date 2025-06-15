@@ -10,5 +10,6 @@
   "accentColor": "#914ce6",
   "baseFontSize": 14,
   "textFontFamily": "",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "showRibbon": true
 }
